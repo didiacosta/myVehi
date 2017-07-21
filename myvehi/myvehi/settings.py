@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'pais_ciudad',
+    'vehiculo',
 ]
 
 MIDDLEWARE = [
@@ -86,7 +88,7 @@ DATABASES = {
         #'ENGINE': 'mysql.connector.django',
         'NAME': 'myvehi',                      
         'USER': 'root',                      
-        'PASSWORD': 'santi10',         
+        'PASSWORD': '29062013',         
         'HOST': '127.0.0.1',                 
         'PORT': '3306',                      
     },
